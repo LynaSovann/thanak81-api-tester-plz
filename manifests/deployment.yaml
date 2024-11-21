@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: thanak81-api-tester-plz-container
-          image: pipejet/thanak81-api-tester-plz:0
+          image: pipejet/thanak81-api-tester-plz:1
           ports:
             - containerPort: 8080
